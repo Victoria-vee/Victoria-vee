@@ -42,9 +42,13 @@ I am Victoria Essien. I'm currently studying Computer Science at the University 
 
 
 ## Github Commit Activity
-![UNN Mart](https://img.shields.io/github/commit-activity/m/Victoria-vee/UNN%20Mart)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Victoria-vee/UNN_Mart?style=flat-square&logo=github&logoSize=%23181717&labelColor=%23181717&color=%239E95B7)
+
 
 <hr>
+
+## Github Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=Victoria-vee&theme=rose&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=180&background=45%2CDDCDC9%2CF9E7E2)](https://git.io/streak-stats)
 
 ## Roadmap Stats
 
