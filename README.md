@@ -1,18 +1,63 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Victoria-vee/Victoria-vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Victoria Essien. I'm currently studying Computer Science at the University of Nigeria, Nsukka(UNN). I.m a Frontend Developer.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an e-commerce site
+- 🌱 I’m currently learning React.js and Tailwind CSS
+- 📫 How to reach me: vickyessien1@gmail.com
+- ⚡ Fun fact: I code in my wake😜
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67a8f4abf863343482129f28?variant=dark&roadmaps=game-developer)](https://roadmap.sh)
+<hr>
+
+## Tech Niches
+- 💻Front-end Development
+- 🎮 Game Development
+
+<hr>
+
+## Tech Stack
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23302683?style=flat-square&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23302683)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399&color=%231572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoSize=auto&labelColor=%23F7DF1E&color=%231C3F65)
+
+#### In Progress📚
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=black&color=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23EFEFEF?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&labelColor=%23EFEFEF&color=%23EFEFEF)
+
+### Game Development
+
+#### In Progress📚
+![Unity](https://img.shields.io/badge/Unity-%23F7F7F7?style=flat-square&logo=unity&logoColor=black&logoSize=auto&labelColor=%23EFEFEF&color=%23EFEFEF)
+![C++](https://img.shields.io/badge/C%2B%2B-%23295495?style=flat-square&logo=cplusplus&logoColor=%2300599C&logoSize=auto&labelColor=%23EFEFEF&color=%23295495)
+![Phaser.js](https://img.shields.io/badge/-Phaser-0277BD?style=flat&logo=phaser)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+
+
+
+<hr>
+
+
+## Github Commit Activity
+![UNN Mart](https://img.shields.io/github/commit-activity/m/Victoria-vee/UNN%20Mart)
+
+<hr>
+
+## Roadmap Stats
+
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67a8f4abf863343482129f28?variant=light&roadmaps=game-developer)](https://roadmap.sh)
+
+<hr>
+
+## Github Stats
+
+
+<img 
+  align="center"
+  alt="Vee's Github Stats"
+  src="(https://github-readme-stats.vercel.app/api?username=Victoria-vee&show_icons=true&theme=radical)"
+/>
