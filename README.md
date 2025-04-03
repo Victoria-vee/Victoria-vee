@@ -62,6 +62,5 @@ I am Victoria Essien. I'm currently studying Computer Science at the University 
 
 <img 
   align="center"
-  alt="Vee's Github Stats"
-  src="(https://github-readme-stats.vercel.app/api?user=Victoria-vee&show_icons=true&theme=radical)"
+  alt="Vee's Github Stats" src="(https://github-readme-stats.vercel.app/api?user=Victoria-vee&show_icons=true&theme=radical)"
 />
